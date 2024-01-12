@@ -1,4 +1,4 @@
-package Assignment_01;
+package Assignment_01_basic;
 
 import java.util.Scanner;
 public class Largest {
